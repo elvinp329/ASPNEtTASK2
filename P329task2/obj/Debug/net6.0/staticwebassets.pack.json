@@ -1,0 +1,213 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\CSS\\_cart.scss",
+      "PackagePath": "staticwebassets\\Asserts\\CSS\\_cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\CSS\\_human.scss",
+      "PackagePath": "staticwebassets\\Asserts\\CSS\\_human.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\CSS\\_location.scss",
+      "PackagePath": "staticwebassets\\Asserts\\CSS\\_location.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\CSS\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Asserts\\CSS\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\Asserts\\CSS\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\CSS\\style.css.map",
+      "PackagePath": "staticwebassets\\Asserts\\CSS\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\CSS\\style.scss",
+      "PackagePath": "staticwebassets\\Asserts\\CSS\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\IMAGE\\app-gallery.svg",
+      "PackagePath": "staticwebassets\\Asserts\\IMAGE\\app-gallery.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\IMAGE\\appstore.svg",
+      "PackagePath": "staticwebassets\\Asserts\\IMAGE\\appstore.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\IMAGE\\logo.jpg",
+      "PackagePath": "staticwebassets\\Asserts\\IMAGE\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\IMAGE\\logoone.jpeg",
+      "PackagePath": "staticwebassets\\Asserts\\IMAGE\\logoone.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\IMAGE\\playstore (1).png",
+      "PackagePath": "staticwebassets\\Asserts\\IMAGE\\playstore (1).png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\IMAGE\\playstore.img",
+      "PackagePath": "staticwebassets\\Asserts\\IMAGE\\playstore.img"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\IMAGE\\ucard (8).webp",
+      "PackagePath": "staticwebassets\\Asserts\\IMAGE\\ucard (8).webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\JS\\app.js",
+      "PackagePath": "staticwebassets\\Asserts\\JS\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Bold-Italic-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Bold-Italic-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Bold-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Bold-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Extrabold-Italic-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Extrabold-Italic-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Extrabold-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Extrabold-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Extralight-Italic-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Extralight-Italic-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Extralight-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Extralight-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Family-CC-BY-NCLicensepdf.pdf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Family-CC-BY-NCLicensepdf.pdf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Heavy-Italic-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Heavy-Italic-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Heavy-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Heavy-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Italic-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Italic-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Light-Italic-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Light-Italic-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Light-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Light-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-Regular-trial.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-Regular-trial.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\Coco-Sharp-by-zetafonts.png",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\Coco-Sharp-by-zetafonts.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Black.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Bold.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Italic.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Light.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Medium.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Regular.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Thin.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\BarlowSemiCondensed-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\P329task2\\P329task2\\wwwroot\\Asserts\\fonts\\fontss\\OFL.txt",
+      "PackagePath": "staticwebassets\\Asserts\\fonts\\fontss\\OFL.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.P329task2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.P329task2.props",
+      "PackagePath": "build\\P329task2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.P329task2.props",
+      "PackagePath": "buildMultiTargeting\\P329task2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.P329task2.props",
+      "PackagePath": "buildTransitive\\P329task2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

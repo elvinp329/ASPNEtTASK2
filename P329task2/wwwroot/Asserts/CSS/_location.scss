@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.locationpage {
+    margin-top: 30px;
+
+    .locationh1 {
+        h1 {
+            font-size: 40px;
+            font-weight: 800;
+            color: #FF7A00;
+            line-height: 32px;
+        }
+    }
+
+    .alocation {
+        margin-top: 35px;
+        color: #FF7A00 !important;
+        position: relative;
+
+        a {
+            text-decoration: none;
+            line-height: 14px;
+            font-weight: 600;
+            font-size: 16px;
+            color: #a1a1a1;
+            text-decoration: none;
+            margin-left: 10px;
+            display: inline-block;
+            padding: 18px 45px;
+            border-radius: 25px;
+            border: 3px solid #969696;
+        }
+
+        .clipahref {
+            text-decoration: none;
+            line-height: 14px;
+            font-weight: 600;
+            font-size: 16px;
+            color: #a1a1a1;
+            text-decoration: none;
+            margin-left: 10px;
+            display: inline-block;
+            padding: 18px 45px;
+            border-radius: 25px;
+            border: 3px solid #969696;
+
+            // &::after {
+            //     content: "";
+            //     position: absolute;
+            //     bottom: -4px;
+            //     transform: rotateZ(-45deg) translate(-35%);
+            //     width: 16px;
+            //     height: 16px;
+            //     border-top: 2px solid white;
+            //     border-right: 2px solid white;
+            //     border-left: 2px solid #FF7A00;
+            //     border-bottom: 2px solid #FF7A00;
+            //     background-color: white;
+            //     left: 50%;
+            // }
+        }
+    }
+}
+
+.maps {
+    border-radius: 100%;
+
+    .allmaps {
+        margin-top: 40px;
+
+    }
+}
+
+
+
+.mapsall {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 23px 65px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #fafafa;
+
+
+    
+    &:hover{
+        background-color: #FF6400;
+        
+        h3{
+            color: white;
+        }
+        i{
+            color: white !important;
+        }
+        
+        p{
+            color: white !important; 
+        }
+    }
+
+    .mapsalltag {
+        display: flex;
+        justify-content: space-between;
+       align-items: center;
+       
+    }
+
+    .textmaps {
+        display: flex;
+        align-items: center;
+
+        i {
+            color: #FF7A00;
+            font-size: 38px;
+            margin-right: 15px;
+        }
+        p{
+          font-weight: 400;
+          line-height: 16px;
+          font-size: 18px;
+          color: black;
+        }
+    }
+}
+
+.endlocationtext{
+    display: flex;
+    
+    padding: 15px 65px;
+    background-color: #FF6400;
+    font-weight: 400;
+    margin-top: 40px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    i{
+        font-size: 30px;
+        color: white;
+        
+    }
+
+    p{
+        margin-left: 10px;
+        color: white;
+        font-size: 18px;
+        font-weight: 800;
+    }
+}

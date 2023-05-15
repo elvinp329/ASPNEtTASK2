@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cartonepage {
+    .cartcommon {
+        .cartpage {
+            display: flex;
+            justify-content: space-between;
+
+
+        }
+
+        padding: 55px 74px;
+        background-color: #fafafa;
+        border-radius: 10px;
+        margin-top: 30px;
+
+        .cartimg {
+
+            border-radius: 10px;
+
+            img {
+                border-radius: 20px;
+                width: 90%;
+                box-shadow: -15px 15px 30px 0 rgba(0, 0, 0, .24);
+            }
+        }
+
+        .ucardheader {
+            display: flex;
+            justify-content: space-between;
+
+        }
+    }
+
+    .ucardh1 {
+        h1 {
+            font-weight: bold;
+            font-size: 30px;
+        }
+    }
+
+    .cardtwo {
+        padding-left: 25px;
+        padding-right: 0;
+
+    }
+
+    .ucarda {
+        padding: 14px 40px;
+        background-color: #ff6400;
+        color: white;
+        border-radius: 25px;
+
+        a {
+            text-decoration: none;
+            color: white;
+            font-weight: 600;
+            line-height: 14px;
+        }
+
+    }
+
+    .ucardtext {
+        margin-top: 10px;
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+
+    .iconsucard {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 60px;
+    }
+
+    .ucardicon {
+        width: 23%;
+        display: flex;
+        align-items: center;
+
+        h3 {
+            margin-left: 10px;
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 20px;
+
+        }
+
+        i {
+            font-weight: 600;
+            color: #ff6400;
+            font-size: 35px;
+        }
+    }
+}
+
+.debetcard {
+    padding: 0;
+
+    margin-top: 65px;
+
+    .debetoll {
+        padding: 0 15px;
+    }
+
+    .debet {
+        padding: 0;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .imgdebet {
+        img {
+            width: 350px;
+            border-radius: 15px;
+            box-shadow: -15px 15px 30px 0 rgba(0, 0, 0, .24);
+        }
+    }
+
+    .debetone {
+
+        padding: 45px 56px;
+        background-color: #fafafa;
+        border-radius: 10px;
+
+    }
+
+    h2 {
+        font-size: 24px;
+        line-height: normal;
+        margin-bottom: 10px;
+        font-weight: 800;
+        margin-top: 40px;
+    }
+
+    p {
+        height: 75px;
+        line-height: 25px;
+    }
+
+    .debeta {
+
+        padding: 15px 48px;
+        border-radius: 56px;
+        background-color: #ff6400;
+        width: 33%;
+        i{
+            margin-left: 10px;
+            color: white;
+        }
+        a {
+            text-decoration: none;
+            display: inline-block;
+            color: white;
+            font-weight: 600;
+            border-radius: 20px;
+            font-size: 14px;
+            box-shadow: 0 10px 10px -10px rgba(255, 107, 0, .51);
+        }
+    }
+
+}

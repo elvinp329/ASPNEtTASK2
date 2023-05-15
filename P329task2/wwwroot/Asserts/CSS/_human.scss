@@ -1,0 +1,201 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.videobar {
+    margin-top: 30px;
+
+    .videobarall {
+        border-radius: 50px;
+        background-image: url("https://unibank.az/uploads/menus/o_1cnj0q0r11k96193k1rgp1tp1icca.jpg"
+            );
+        height: 280px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+    }
+
+    .videoimg {
+
+        i {
+            padding: 12px 18px;
+            margin-left: 50%;
+            margin-top: 7%;
+            font-size: 35px;
+            color: white;
+            border-radius: 100%;
+            border: 4px solid white;
+
+
+        }
+    }
+}
+
+
+.maxcard {
+    margin-top: 20px;
+
+    .maxcards {
+        text-align: center;
+        padding: 57px 33px;
+        background-color: #fafafa;
+        border-radius: 18px;
+        height: 370px;
+        margin-bottom: 25px;
+
+
+
+        &:hover {
+            background-color: #FF7A00;
+
+            i {
+                color: white;
+            }
+
+            h2 {
+                color: white;
+            }
+
+            p {
+                color: white;
+            }
+        }
+
+        i {
+            font-size: 60px;
+            color: #FF7A00;
+        }
+
+        h2 {
+            font-size: 20px;
+            font-weight: 700;
+            color: black;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            color: rgba(0, 0, 0, .8);
+            line-height: normal;
+            font-weight: 400;
+
+        }
+    }
+}
+
+.humans {
+    .humanspage {
+        padding: 3rem 4.5rem;
+        border-radius: 10px;
+        background-color: #fafafa;
+
+        .humanimg {
+            img {
+                width: 106px;
+                border-radius: 100%;
+            }
+        }
+
+        .humanh4 {
+            h4 {
+                margin-top: 13px;
+                color: black;
+
+
+            }
+        }
+
+        .humanspan {
+            span {
+                color: black;
+                opacity: 0.7;
+                margin-top: 13px;
+                font-size: 18px;
+            }
+        }
+
+        .humanp {
+            p {
+                color: black;
+                margin-top: 15px;
+                line-height: 1.43;
+                font-size: 18px;
+            }
+        }
+    }
+}
+
+.abouttext {
+    margin-top: 20px;
+    background-color: #fafafa;
+    padding: 45px 65px;
+    border-radius: 15px;
+
+    .abouth1 {
+        h1 {
+            color: #FF7A00;
+            font-weight: 900;
+
+        }
+    }
+
+    .aboutp {
+        margin-top: 20px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.43;
+    }
+}
+
+
+.check{
+    margin-top: 30px;
+    margin-bottom: 60px;
+    padding: 0 0;
+
+    .checkoll{
+        background-color: #FF6400;
+        padding: 35px 45px;
+        height: 220px;
+        border-radius: 10px;
+        text-align: center;
+
+        
+        i{
+
+            padding: 15px 15px;
+            border: 5px solid white;
+            border-radius: 100%;
+            font-weight: bold;
+            font-weight: 900;
+            font-size:25px;
+            color: white;
+        }
+
+        p{
+            color: white;
+            line-height: 1.43;
+            font-weight: 700;
+            margin-top: 10px;
+            font-size: 17px;
+
+        }
+    }
+}
+
+
+.endtext{
+    margin-top: 27px;
+    .endtextoll{
+        h1{
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 10px;
+            line-height: 20px;
+        }
+    }
+}
